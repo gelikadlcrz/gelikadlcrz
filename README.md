@@ -2,7 +2,7 @@
 
 # Angelika Kyle Dela Cruz
 
-### Software engineering · AI Systems & Modelling · Full-stack development · UI/UX Design
+### Software Engineering · AI Systems & Modeling · Full-stack Development · UI/UX Design
 
 <br />
 
