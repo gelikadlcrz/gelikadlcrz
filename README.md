@@ -1,23 +1,16 @@
 <div align="center">
 
-# ✦ Angelika Kyle Dela Cruz
+# Angelika Kyle Dela Cruz
 
 ### Software engineering · AI Systems & Modelling · Full-stack development · UI/UX Design
 
-<br/>
+<br />
 
-<a href="mailto:2241338@slu.edu.ph">
-  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
-<a href="https://github.com/gelikadlcrz">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=ffffff" />
-</a>
-<a href="https://linkedin.com/in/gelikadlcrz">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-<a href="https://angelikakyle.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
-</a>
+[![Portfolio](https://img.shields.io/badge/portfolio-angelikakyle.netlify.app-dfff45?style=for-the-badge&labelColor=101010)](https://angelikakyle.netlify.app)
+[![GitHub](https://img.shields.io/badge/github-gelikadlcrz-93a4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/gelikadlcrz)
+[![LinkedIn](https://img.shields.io/badge/linkedin-gelikadlcrz-ff745f?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://linkedin.com/in/gelikadlcrz)
+[![Email](https://img.shields.io/badge/email-2241338%40slu.edu.ph-35d69b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:2241338@slu.edu.ph)
+
 
 </div>
 
@@ -39,19 +32,19 @@ My work usually sits between **full-stack development**, **web and mobile applic
 
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,php,c,cpp,html,css&perline=9" />
 
-<br/><br/>
+<br/>
 
 ### Frameworks & development
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,androidstudio,figma,vscode&perline=6" />
 
-<br/><br/>
+<br/>
 
 ### Databases & tools
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git&perline=4" />
 
-<br/><br/>
+<br/>
 
 ### AI / ML
 
